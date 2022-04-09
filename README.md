@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+Computer Science student at VIT Vellore (2025)
+Aspiring .NET developer
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=johntony366&theme=dark)
 
 <!--
