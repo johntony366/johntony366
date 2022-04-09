@@ -1,7 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=johntony366" width="400"/>
-</a>
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=johntony366&theme=dark)
 
 <!--
 **johntony366/johntony366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
