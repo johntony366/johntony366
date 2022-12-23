@@ -3,9 +3,9 @@ Computer Science student at VIT Vellore (2025)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johntony366&show_icons=true&locale=en&layout=compact&theme=radical" alt="johntony366" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=johntony366&show_icons=true&locale=en&theme=radical" alt="johntony366" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=johntony366&show_icons=true&locale=en&theme=radical" alt="johntony366" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johntony366&theme=radical" alt="johntony366" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johntony366&theme=radical" alt="johntony366" />
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=johntony366&theme=dark)
 
