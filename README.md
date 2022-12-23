@@ -1,6 +1,8 @@
 ### Hey there 👋
 Computer Science student at VIT Vellore (2025)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johntony366)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=johntony366&theme=dark)
 
