@@ -6,9 +6,8 @@
 
 <div align="left">
     <h3>About me:</h3>
-        <p>• I’m currently learning: <b>Full stack web development using MERN</b></p>
+        <p>•Building <b><a href="https://www.theopportunitiesportal.com/">The Opportunities Portal</a></b></p>
         <p>• Hobbies: <b>Table Tennis | Exercise | Socialising</b></p>
-        <p>• Ask me about: <b>Anything!</b></p>
         <p>• How to reach me: <b>johntony366@gmail.com</b></p>
 </div><br>
 
