@@ -14,8 +14,6 @@
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=johntony366&theme=radical" alt="johntony366"/>
     <img height="175em" src="https://leetcode.card.workers.dev/?username=johntony366&theme=dark" alt="johntony366"/>
 </div>
-    
----
 
 <div>
   <h3>Languages and tools I've worked with:</h3><br>
