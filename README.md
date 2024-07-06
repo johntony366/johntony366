@@ -4,10 +4,6 @@
 
 <h3 align="left">I'm passionate about programming and technology!</h3>
 
-<div align="left">
-        <p>•Building <b><a href="https://www.theopportunitiesportal.com/">The Opportunities Portal</a></b></p>
-</div><br>
-
 <div align="start">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=johntony366&show_icons=true&locale=en&layout=compact&theme=radical" alt="johntony366" />
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=johntony366&show_icons=true&locale=en&theme=radical" alt="johntony366"/>
